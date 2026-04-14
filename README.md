@@ -4,6 +4,8 @@
 An end-to-end Power BI dashboard developed to analyze the sales and profitability performance of **Plant Co.** This project focuses on comparing Year-to-Date (YTD) metrics against Prior-Year-to-Date (PYTD) to identify growth trends and performance gaps.
 ![Dashboard Screenshot](image.png)
 
+*Implementation based on the tutorial by [Mo Chen](https://youtu.be/BLxW9ZSuuVI).*
+
 ## Technical Features
 - **Dynamic Measures:** Utilized `SWITCH` and `SELECTEDVALUE` DAX functions to allow users to toggle between **Sales**, **Quantity**, and **Gross Profit** across all visuals.
 - **Time Intelligence:** Implemented YTD and PYTD calculations to provide period-over-period comparisons.
